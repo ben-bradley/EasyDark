@@ -1,9 +1,9 @@
 {
     "title": "Easy Dark",
-    "name": "easy-dark",
+    "name": "easy-dark-fork",
     "description": "Forked from https://github.com/Brackets-Themes/EasyDark!",
     "version": "2.0.2",
-    "author": "Miguel Castillo <mahchagnu@gmail.com>",
+    "author": "Miguel Castillo <mahchagnu@gmail.com>, forked by Ben Bradley",
     "homepage": "https://github.com/ben-bradley/EasyDark",
     "repository": {
         "type": "git",
